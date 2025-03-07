@@ -1,3 +1,3 @@
 # Elysium-fall
 
-## A collection of projects written in rust.
+A collection of projects written in rust.
