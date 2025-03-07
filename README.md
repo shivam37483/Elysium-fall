@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Elysium-fall
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+## A collection of projects written in rust.
